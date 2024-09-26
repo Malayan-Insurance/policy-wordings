@@ -1,4 +1,4 @@
-# Malayan Insurance
+# MALAYAN INSURANCE
 
 **Malayan Insurance Philippines** is the largest non-life insurer in the Philippines, providing comprehensive and accessible insurance plans that ensure the safety and protection of Filipinos and their valuable assets. This repository contains detailed product documentation for our range of insurance offerings.
 
