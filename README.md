@@ -1,6 +1,6 @@
-# Malayan Insurance Products
+# Malayan Insurance
 
-**Malayan Insurance** is the largest non-life insurer in the Philippines, providing comprehensive and accessible insurance plans that ensure the safety and protection of Filipinos and their valuable assets. This repository contains detailed product documentation for our range of insurance offerings.
+**Malayan Insurance Philippines** is the largest non-life insurer in the Philippines, providing comprehensive and accessible insurance plans that ensure the safety and protection of Filipinos and their valuable assets. This repository contains detailed product documentation for our range of insurance offerings.
 
 ## Table of Contents
 
@@ -52,4 +52,3 @@ Stay updated with our latest offerings and news:
 - 👍 [Facebook](https://facebook.com/MalayanInsurancePH)
 - 📸 [Instagram](https://instagram.com/malayaninsuranceph)
 - 💼 [LinkedIn](https://linkedin.com/company/malayan-insurance-co-inc-)
-- 📧 [Email](mailto:ecommerce@malayan.com)
